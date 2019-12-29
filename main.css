@@ -1,0 +1,41 @@
+.settings
+{
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	transform: translateX(-100%);
+	transition: transform 1s;
+}
+
+.settings-expand.settings
+{
+	transform: none;
+}
+
+input
+{
+	padding: 10px;
+	font-size: 12px;
+	width: 250px;
+	height: 24px;
+}
+
+button
+{
+	font-size: 12px;
+	height: 24px;
+	width: 72px;
+	background: none;
+	color: black;
+	border: 2px solid black;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+form
+{
+	padding-top: 10px;
+}
+
+
+

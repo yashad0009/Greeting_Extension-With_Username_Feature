@@ -1,2 +1,2 @@
-# Greeting_Extension_WithUsername
+# Greeting_Extension_With_Username_Option
 A Google Chrome Extension that greets users according to the current system time.

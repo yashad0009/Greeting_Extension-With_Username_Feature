@@ -1,7 +1,7 @@
 {
   	"name": "Greeting Extension",
 
-	"description": "This extension is used to greet the user everytime, with respect to the current system time.",
+	"description": "A Google Chrome Extension that greets user according to the current time.",
   
   	"version": "0.0.0.1",
   
